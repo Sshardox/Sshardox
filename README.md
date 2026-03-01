@@ -1,10 +1,10 @@
 <h1 align="center">Hello, Yeiker here</h1>
-<p align="center">Software Engineer | Cloud Enthusiast | Always Learning</p>
+<p align="center">Software Engineer | Full-Stack | Cloud Enthusiast | Always Learning</p>
 
 ---
 
 ### About Me
- I like to code, understand how things work, and make them better. I enjoy solving problems with code and learning whatever it takes to get it done.
+ I like to understand how things work, and make them better. I enjoy solving problems by applying and learning whatever is necessary to get the job done.
 
 ---
 
