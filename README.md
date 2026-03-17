@@ -4,7 +4,7 @@
 ---
 
 ### About Me
- I like to understand how things work, and make them better. I enjoy solving problems by applying and learning whatever is necessary to get the job done.
+ I like to understand how things work and make them better. I enjoy solving problems by applying and learning whatever is necessary to get the job done.
 
 ---
 
