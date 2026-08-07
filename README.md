@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Yeiker here</h1>
-<p align="center">Software Engineer | Full-Stack | Cloud Enthusiast | Always Learning</p>
+<p align="center">Software Engineer | Full-Stack | Cloud and Cybersecurity Enthusiast | Always Learning</p>
 
 ---
 
