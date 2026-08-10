@@ -1,15 +1,31 @@
 <h1 align="center">Hello, Yeiker here</h1>
-<p align="center">Software Engineer | Full-Stack | Cloud and Cybersecurity Enthusiast | Always Learning</p>
+<p align="center">Software Engineer · Full-Stack · Cloud · Cybersecurity</p>
+
+*Software engineer who likes understanding the whole system*
 
 ---
 
 ### About Me
- I like to understand how things work and make them better. I enjoy solving problems by applying and learning whatever is necessary to get the job done.
+I'm a Software Engineer who enjoys understanding how systems work — from application code to infrastructure and security.
+
+I like building things, automating repetitive work, experimenting with new technologies, and occasionally breaking stuff just to understand how to put it back together better.
+
+Currently diving deeper into Cloud, Cybersecurity and AI-assisted development.
 
 ---
 
 ### Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+#### Development
+Java · Spring Boot · C# · .NET · JavaScript · Angular · Python
+
+#### Cloud & DevOps
+AWS · GCP · Docker · Kubernetes · Jenkins · Azure DevOps
+
+#### Data
+SQL · NoSQL
+
+#### Security
+Linux · Networking · OWASP · Nmap · Wireshark · Burp Suite
 
 
 ### Connect with Me
